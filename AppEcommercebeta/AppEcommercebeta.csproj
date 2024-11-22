@@ -10,6 +10,13 @@
 
   <ItemGroup>
     <None Remove="Images\loginpicture.jpg" />
+    <None Remove="Images\logo.jpeg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Images\logo.jpeg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
 
   <ItemGroup>

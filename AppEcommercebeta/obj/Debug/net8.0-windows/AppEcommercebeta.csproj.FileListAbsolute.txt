@@ -20,3 +20,6 @@ H:\ProyectoProgramacionEcommerce\AppEcommercebeta\AppEcommercebeta\obj\Debug\net
 H:\ProyectoProgramacionEcommerce\AppEcommercebeta\AppEcommercebeta\obj\Debug\net8.0-windows\ref\AppEcommercebeta.dll
 H:\ProyectoProgramacionEcommerce\AppEcommercebeta\AppEcommercebeta\obj\Debug\net8.0-windows\View\LoginView.g.cs
 H:\ProyectoProgramacionEcommerce\AppEcommercebeta\AppEcommercebeta\obj\Debug\net8.0-windows\View\LoginView.baml
+H:\ProyectoProgramacionEcommerce\AppEcommercebeta\AppEcommercebeta\obj\Debug\net8.0-windows\AppEcommercebeta.sourcelink.json
+H:\ProyectoProgramacionEcommerce\AppEcommercebeta\AppEcommercebeta\bin\Debug\net8.0-windows\Images\logo.jpeg
+H:\ProyectoProgramacionEcommerce\AppEcommercebeta\AppEcommercebeta\obj\Debug\net8.0-windows\AppEcommercebeta_Content.g.cs

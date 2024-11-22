@@ -39,5 +39,15 @@ namespace AppEcommercebeta.View
         {
             Application.Current.Shutdown(); 
         }
+
+        private void txtPass_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
+
+        private void btnLogin_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
